@@ -1,6 +1,6 @@
 ![JavohirJalilov's github stats](https://github-readme-stats.vercel.app/api?username=JavohirJalilov&show_icons=true&theme=tokyonight)
 
-[![CodeWars](https://www.codewars.com/users/azizbekQozoqov/badges/large)](https://www.codewars.com/users/Jalilov)
+[![CodeWars](https://www.codewars.com/users/Jalilov/badges/large)](https://www.codewars.com/users/Jalilov)
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
