@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/018d54ae-4681-4931-ba62-2ba33d04f610.svg)](https://wakatime.com/@018d54ae-4681-4931-ba62-2ba33d04f610) \
 ![JavohirJalilov's github stats](https://github-readme-stats.vercel.app/api?username=JavohirJalilov&show_icons=true&theme=tokyonight)
 <!-- Here are some ideas to get you started:
 
